@@ -10,13 +10,13 @@ Le projet doit contenir au moins une mécanique de chaque catégorie suivante. 3
 [X] Spawn d'objets (en plus des joueurs) 
 Exemples : Spawn ennemis, spawn de projectile, spawn de bonus à ramasser...
 
-[ ] Des objets qui se déplacent ou rotate 
+[X] Des objets qui se déplacent ou rotate 
 exemples : Portes qui s'ouvrent, plateformes, AI ennemi…
 
 [X] Un système d'interaction entre le joueur et son environnement qui s'affiche sur l'UI des autres joueurs.
 Exemples : Augmentation de score qui s'affiche chez tout le monde, Killfeed, inventaire de chaque joueur...
 
-4) Un élément qui se sauvegarde entre deux lancement du jeu (En plus du nom des joueurs)
+[ ] Un élément qui se sauvegarde entre deux lancement du jeu (En plus du nom des joueurs)
 Exemples : Position, vie, niveau et expérience, équipement...
 
 [X] Une action de personnage via un input.
